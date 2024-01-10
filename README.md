@@ -22,4 +22,4 @@ This is a simple weather bot for the Telegram.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhishekydv097/
+   https://github.com/Abhishekydv097/AST-consulting-task-Telegram-Bot-main
